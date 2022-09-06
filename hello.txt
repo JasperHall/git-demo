@@ -12,5 +12,5 @@ hello first git!!
 hello first git!!
 hello first git!!
 hello first git!!
-hello first git!!
-hello first git!!
+hello first git!! master test
+hello first git!! hot-fix test
